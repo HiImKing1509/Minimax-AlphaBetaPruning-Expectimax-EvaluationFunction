@@ -56,7 +56,7 @@ class MinimaxAgent(MultiAgentSearchAgent):
     	def minValue(state, agentIdx, depth):
     		# implementation
 
-		def maxValue(state, agentIdx, depth):
+			def maxValue(state, agentIdx, depth):
     		# implementation
 		
 		return action
