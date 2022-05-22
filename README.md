@@ -120,6 +120,6 @@ class ExpectimaxAgent(MultiAgentSearchAgent):
 ```python
 # in multiagents.py
 def betterEvaluationFunction(currentGameState):
-    	# implementation
+    # implementation
 
 ```
